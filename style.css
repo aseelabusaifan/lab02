@@ -1,0 +1,21 @@
+body{
+  background-color: gray;
+
+  margin: 0;
+}
+
+section{ 
+   background-color: #FDCA40 ;
+  height: 150 px;
+width: 150 px;
+}
+
+div{
+ display:inline-block ; 
+
+}
+ img{
+   width: 250px;
+ height: 250px;
+
+}
