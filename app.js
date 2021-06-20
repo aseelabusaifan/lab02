@@ -1,8 +1,8 @@
 
-// var first name = " aseel "
-// var last name = " abusaifan"
-// var name = first name+last name
-// console.log (name)
+var first name = " aseel "
+var last name = " abusaifan"
+var name = first name+last name
+console.log (name)
 
 alert ("welome to web site") 
 
